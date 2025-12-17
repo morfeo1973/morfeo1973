@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JOSE SANCHEZ
-- 👀 I’m interested in web development with php and mysql
-- 🌱 I´m currently designing a web application to deploy with Docker and Docker-Compose
+- 👀 I’m interested in apps web/android development 
+- 🌱 I´m currently designing a web application ticketing to deploy in NAS Synology
 - 💞️ I’m looking to collaborate on web project development
 - 📫 How to reach me: Contact me on virgis_net@hotmail.com
 
